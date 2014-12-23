@@ -20,3 +20,8 @@ test("simple divide", function(assert){
 	var result = calculator.divide(6, 3);
 	equal(result, 2);
 });
+
+test("simple multiply", function(assert){
+	var result = calculator.multiply(6, 3);
+	equal(result, 18);
+});
