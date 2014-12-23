@@ -1,8 +1,8 @@
-#Karma Qunit sample
+#Karma Qunit Example
 
 Sample project using Karma with Qunit.
 
-![screenshot](https://raw.githubusercontent.com/leomicheloni/karma-qunit-sample/master/printscreen.png)
+![screenshot](https://raw.githubusercontent.com/leomicheloni/karma-qunit-example/master/printscreen.png)
 
 ##Installation
 
