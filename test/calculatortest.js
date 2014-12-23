@@ -15,3 +15,8 @@ test("simple subtract", function(assert){
 	var result = calculator.subtract(5, 3);
 	equal(result, 2);
 });
+
+test("simple divide", function(assert){
+	var result = calculator.divide(6, 3);
+	equal(result, 2);
+});
