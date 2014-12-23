@@ -1,7 +1,10 @@
-karma-qunit-sample
-==================
+#Karma Qunit sample
 
 Sample project using Karma with Qunit.
+
+![screenshot](https://raw.githubusercontent.com/leomicheloni/karma-qunit-sample/master/printscreen.png)
+
+##Installation
 
 You need to have NodeJs installed, then install Karma.
 	
@@ -9,6 +12,8 @@ First, install Karma globally `npm install -g karma`.
 Then install Karma cli globally `npm install -g karma-cli`.
 
 Ready!
+
+##Run
 
 Just type `karma start`, to start continuous testing experience.
 
